@@ -1,3 +1,3 @@
 # Ninad personal portfolio page
 
-URL : ninadsharma1.github.io
+URL : [Personal Portfolio](https://ninadsharma1.github.io)
